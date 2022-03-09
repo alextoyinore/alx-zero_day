@@ -1,1 +1,1 @@
-0x03-git directory
+0x03-git directory is edited directly on github
